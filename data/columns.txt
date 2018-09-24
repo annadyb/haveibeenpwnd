@@ -1,0 +1,5 @@
+Name
+Domain
+PwnCount
+BreachDate
+DataClasses
