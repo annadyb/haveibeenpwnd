@@ -9,5 +9,5 @@ py==1.5.2
 pytest==3.4.2 
 requests==2.20.0 
 six==1.11.0 
-urllib3==1.23
+urllib3==1.26.5
 validators==0.12.1
